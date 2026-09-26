@@ -1,0 +1,6 @@
+{
+  "name": "Integrity Gym – Premium Fitness Club Viman Nagar",
+  "description": "Integrity Gym is Viman Nagar, Pune's premier fitness destination featuring elite strength equipment, personal training, functional HIIT, and dedicated studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
